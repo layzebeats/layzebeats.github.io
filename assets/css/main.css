@@ -161,6 +161,10 @@ input, select, textarea {
 			border-bottom-color: transparent;
 		}
 
+.entry-content p br {
+    display: block;
+}
+
 	strong, b {
 		color: #ffffff;
 		font-weight: 600;
